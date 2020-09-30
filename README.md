@@ -13,6 +13,8 @@
 - :computer: I’m currently studying Node, ReactJS, React Native, Docker and the microservices world
 - :musical_note: I love podcasts and music. [Here my favorites playlist on Spotify][spotify]
 
+-------
+
 <p align="center">
   <img
       align="center"
