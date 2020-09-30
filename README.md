@@ -13,7 +13,17 @@
 - :computer: I’m currently studying Node, ReactJS, React Native, Docker and the microservices world
 - :musical_note: I love podcasts and music. [Here my favorites playlist on Spotify][spotify]
 
-<img align="left" alt="my github stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=felipebergamin&show_icons=true&hide_border=true" />
+<p align="center">
+  <img
+      align="center"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipebergamin&layout=compact"
+    />
+  <img
+      align="center"
+      height="165"
+      src="https://github-readme-stats.vercel.app/api?username=felipebergamin&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues"
+    />
+</p>
 
 [telegram]: https://t.me/felipebergamin
 [twitter]: https://twitter.com/felipe_bergamin
