@@ -8,7 +8,7 @@
 
 ## I trully love to learn and teach.
 
-- :globe_with_meridians: I worked as NOC Analyst, PHP Dev
+- :globe_with_meridians: I worked as NOC Analyst, PHP Dev, React Native, ReactJS, Node...
 - :iphone: Currently I'm working as React Native Developer
 - :computer: I’m currently studying Node, ReactJS, React Native, Docker and the microservices world
 - :musical_note: I love podcasts and music. [Here my favorites playlist on Spotify][spotify]
