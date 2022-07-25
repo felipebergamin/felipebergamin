@@ -3,7 +3,6 @@
 [![Twitter Badge](https://img.shields.io/badge/-@felipe_bergamin-3370cc?style=flat&labelColor=3370cc&logo=twitter&logoColor=white&link=https://twitter.com/felipe_bergamin)][twitter]
 [![Linkedin Badge](https://img.shields.io/badge/-Felipe%20Bergamin-3370cc?style=flat&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/felipericieribergamin)][linkedin]
 [![Gmail Badge](https://img.shields.io/badge/-felipebergamin6@gmail.com-3370cc?style=flat&logo=Gmail&logoColor=white&link=mailto:felipebergamin6@gmail.com)][mail]
-[![Telegram Badge](https://img.shields.io/badge/-@felipebergamin-3370cc?style=flat&logo=Telegram&logoColor=white&link=https://t.me/felipebergamin)][telegram]
 [![NPM Badge](https://img.shields.io/badge/-@felipebergamin-3370cc?style=flat&logo=npm&logoColor=white&link=https://www.npmjs.com/~felipebergamin)][npm]
 
 ## I trully love to learn and teach.
