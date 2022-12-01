@@ -5,15 +5,6 @@
 [![Gmail Badge](https://img.shields.io/badge/-felipebergamin6@gmail.com-3370cc?style=flat&logo=Gmail&logoColor=white&link=mailto:felipebergamin6@gmail.com)][mail]
 [![NPM Badge](https://img.shields.io/badge/-@felipebergamin-3370cc?style=flat&logo=npm&logoColor=white&link=https://www.npmjs.com/~felipebergamin)][npm]
 
-## I trully love to learn and teach.
-
-- :globe_with_meridians: I worked as NOC Analyst, PHP Dev, React Native, ReactJS, Node...
-- :iphone: Currently I'm working as React Native Developer
-- :computer: I’m currently studying Node, ReactJS, React Native, Docker and the microservices world
-- :musical_note: I love podcasts and music. [Here my favorites playlist on Spotify][spotify]
-
--------
-
 <p align="center">
   <img
       align="center"
